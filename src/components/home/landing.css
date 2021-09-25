@@ -1,0 +1,28 @@
+.container{
+   display: flex;
+   /* justify-content: center; */
+   /* align-items: center; */
+}
+
+.landing{
+    width: 100%;
+display: flex;
+align-items: center;
+justify-content: space-around;
+/* background: rgb(23, 117, 117); */
+background: #0E0F11; 
+}
+
+.vid{
+    width: 633px;
+    height: 462px;
+    background: rgb(0, 0, 0);
+}
+
+.title{
+    background: rgb(126, 102, 102);
+    color: aliceblue;
+    width: 533px;
+    height: 362px;
+}
+

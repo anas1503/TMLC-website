@@ -1,0 +1,13 @@
+.sidebar{
+    margin: 0%;
+    height: 100vh;
+    width: 152px;
+    background-color: #00ADB5;
+    /* position: fixed; */
+}
+
+.nav{
+    text-align: center;
+
+}
+
