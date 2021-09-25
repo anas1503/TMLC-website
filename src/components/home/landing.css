@@ -1,15 +1,13 @@
 .container{
    display: flex;
-   /* justify-content: center; */
-   /* align-items: center; */
+  
 }
 
 .landing{
     width: 100%;
 display: flex;
 align-items: center;
-justify-content: space-around;
-/* background: rgb(23, 117, 117); */
+justify-content:space-around;
 background: #0E0F11; 
 }
 
@@ -20,9 +18,12 @@ background: #0E0F11;
 }
 
 .title{
-    background: rgb(126, 102, 102);
     color: aliceblue;
-    width: 533px;
-    height: 362px;
+    width: 633px;
+    height: 162px;
+    letter-spacing: 3px;
+    font-size: 36px;
+    align-items: center;
+    font-weight: bold;
 }
 

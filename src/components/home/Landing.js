@@ -13,7 +13,9 @@ const Landing = () => {
             </div>
 
             <div className="title">
-                <p>T H E  M A C H I N E </p>
+                <p>T H E &nbsp;  M A C H I N E </p>
+                <p style={{color:"#00FFFF",letterSpacing:"10px",fontWeight:"bolder",marginTop:"12px"}}>LEARNING COMPANY</p>
+                <p style={{fontSize:"15px",fontWeight:"lighter",marginTop:"20px"}}>LEARN | IMPROVISE | GROW</p>
             </div>
             </div>
          
