@@ -5,8 +5,36 @@
     background-color: #00ADB5;
  }
 
+ .logo{
+     margin-top: 25px;
+  }
+
 .nav{
     text-align: center;
-
+    margin-top: 50%;
 }
 
+.navdata{
+    /* margin-bottom: 24%; */
+    /* background: rgb(241, 194, 194); */
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.line{
+         width: 50px;
+        height: 3px;
+        border: 0;
+        background: white;
+        text-align: center;
+        /* margin-bottom: 5px; */
+    
+}
+
+.navbar{
+    /* background: rgb(106, 185, 166); */
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+}
